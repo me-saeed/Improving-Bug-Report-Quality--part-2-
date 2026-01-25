@@ -1,0 +1,35 @@
+Bug Title:
+A short and clear summary of the problem.
+
+Reported By:
+Name of the student reporting the bug.
+
+Date & Time:
+When the issue was observed.
+
+Environment:
+- Platform: iOS / Android
+- Device (if known):
+- OS version:
+- App version:
+
+Preconditions:
+Any conditions that must be true before the bug occurs
+(e.g., user is logged in, internet connection enabled).
+
+Steps to Reproduce:
+1. Step one
+2. Step two
+3. Step three
+
+Expected Behavior:
+What should normally happen.
+
+Actual Behavior:
+What actually happened.
+
+Severity:
+Low / Medium / High / Critical
+
+Attachments (optional):
+Screenshots, logs, or screen recordings if available.

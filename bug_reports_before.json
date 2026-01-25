@@ -1,0 +1,218 @@
+[
+  {
+    "id": "BR-001",
+    "reporter": "Qasim",
+    "timestamp": "2025-11-04T09:12:00+01:00",
+    "free_text": "App stuck on loading when I open it. Just keeps spinning."
+  },
+  {
+    "id": "BR-002",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-04T10:05:00+01:00",
+    "free_text": "Login not working. It says error sometimes."
+  },
+  {
+    "id": "BR-003",
+    "reporter": "Arsalan",
+    "timestamp": "2025-11-04T12:31:00+01:00",
+    "free_text": "Movies screen blank. Nothing showing."
+  },
+  {
+    "id": "BR-004",
+    "reporter": "Ali",
+    "timestamp": "2025-11-04T14:44:00+01:00",
+    "free_text": "Swipe card jumps weird. I can’t like/dislike properly."
+  },
+  {
+    "id": "BR-005",
+    "reporter": "Saeed",
+    "timestamp": "2025-11-04T16:10:00+01:00",
+    "free_text": "App crashed when I opened profile."
+  },
+  {
+    "id": "BR-006",
+    "reporter": "Qasim",
+    "timestamp": "2025-11-05T08:20:00+01:00",
+    "free_text": "Forgot password email not coming."
+  },
+  {
+    "id": "BR-007",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-05T09:40:00+01:00",
+    "free_text": "OTP screen is confusing and doesn’t accept code sometimes."
+  },
+  {
+    "id": "BR-008",
+    "reporter": "Arsalan",
+    "timestamp": "2025-11-05T10:55:00+01:00",
+    "free_text": "Recommendations tab and report tab looks swapped maybe? it feels wrong."
+  },
+  {
+    "id": "BR-009",
+    "reporter": "Ali",
+    "timestamp": "2025-11-05T11:18:00+01:00",
+    "free_text": "Liked movies disappear after restart."
+  },
+  {
+    "id": "BR-010",
+    "reporter": "Saeed",
+    "timestamp": "2025-11-05T12:02:00+01:00",
+    "free_text": "Sometimes movie details not opening. I tap but nothing."
+  },
+  {
+    "id": "BR-011",
+    "reporter": "Qasim",
+    "timestamp": "2025-11-06T13:27:00+01:00",
+    "free_text": "Cycle tracking date picker is buggy. Can’t pick the right date."
+  },
+  {
+    "id": "BR-012",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-06T14:13:00+01:00",
+    "free_text": "When I start cycle it saves wrong or doesn’t save."
+  },
+  {
+    "id": "BR-013",
+    "reporter": "Arsalan",
+    "timestamp": "2025-11-06T16:01:00+01:00",
+    "free_text": "App slow after login. takes too long to show home."
+  },
+  {
+    "id": "BR-014",
+    "reporter": "Ali",
+    "timestamp": "2025-11-07T09:22:00+01:00",
+    "free_text": "Settings screen shows white page."
+  },
+  {
+    "id": "BR-015",
+    "reporter": "Saeed",
+    "timestamp": "2025-11-07T11:10:00+01:00",
+    "free_text": "Sometimes it logs me out randomly."
+  },
+  {
+    "id": "BR-016",
+    "reporter": "Qasim",
+    "timestamp": "2025-11-08T10:30:00+01:00",
+    "free_text": "Theme changes but not everywhere. Some screens still old colors."
+  },
+  {
+    "id": "BR-017",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-08T12:42:00+01:00",
+    "free_text": "Movie list keeps refreshing by itself."
+  },
+  {
+    "id": "BR-018",
+    "reporter": "Arsalan",
+    "timestamp": "2025-11-09T09:58:00+01:00",
+    "free_text": "When I like a movie, it shows again later."
+  },
+  {
+    "id": "BR-019",
+    "reporter": "Ali",
+    "timestamp": "2025-11-09T11:35:00+01:00",
+    "free_text": "Dislike doesn’t work. Card stays or comes back."
+  },
+  {
+    "id": "BR-020",
+    "reporter": "Saeed",
+    "timestamp": "2025-11-09T13:09:00+01:00",
+    "free_text": "Poster images sometimes not loading (broken image)."
+  },
+  {
+    "id": "BR-021",
+    "reporter": "Qasim",
+    "timestamp": "2025-11-10T08:33:00+01:00",
+    "free_text": "After signup it goes to blank screen."
+  },
+  {
+    "id": "BR-022",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-10T10:20:00+01:00",
+    "free_text": "Email validation weird. Some valid email rejected."
+  },
+  {
+    "id": "BR-023",
+    "reporter": "Arsalan",
+    "timestamp": "2025-11-11T09:07:00+01:00",
+    "free_text": "Profile edit not saving. I change name but it resets."
+  },
+  {
+    "id": "BR-024",
+    "reporter": "Ali",
+    "timestamp": "2025-11-11T11:18:00+01:00",
+    "free_text": "Health profile form is laggy and sometimes doesn’t submit."
+  },
+  {
+    "id": "BR-025",
+    "reporter": "Saeed",
+    "timestamp": "2025-11-12T10:41:00+01:00",
+    "free_text": "Feedback screen crashes when I type long message."
+  },
+  {
+    "id": "BR-026",
+    "reporter": "Qasim",
+    "timestamp": "2025-11-12T12:55:00+01:00",
+    "free_text": "Survey answers not saved or I don’t see them later."
+  },
+  {
+    "id": "BR-027",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-13T09:02:00+01:00",
+    "free_text": "Sometimes app says network error even when internet is fine."
+  },
+  {
+    "id": "BR-028",
+    "reporter": "Arsalan",
+    "timestamp": "2025-11-13T14:36:00+01:00",
+    "free_text": "StartCycle page shows wrong dates (like one day off)."
+  },
+  {
+    "id": "BR-029",
+    "reporter": "Ali",
+    "timestamp": "2025-11-14T10:10:00+01:00",
+    "free_text": "When I open movie detail, providers section empty always."
+  },
+  {
+    "id": "BR-030",
+    "reporter": "Saeed",
+    "timestamp": "2025-11-14T16:48:00+01:00",
+    "free_text": "App freezes when switching tabs fast."
+  },
+  {
+    "id": "BR-031",
+    "reporter": "Qasim",
+    "timestamp": "2025-11-15T08:29:00+01:00",
+    "free_text": "After logout and login again my liked movies are gone."
+  },
+  {
+    "id": "BR-032",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-15T12:57:00+01:00",
+    "free_text": "Sometimes it shows same recommendations again and again."
+  },
+  {
+    "id": "BR-033",
+    "reporter": "Arsalan",
+    "timestamp": "2025-11-16T11:26:00+01:00",
+    "free_text": "App says something went wrong when opening home sometimes."
+  },
+  {
+    "id": "BR-034",
+    "reporter": "Ali",
+    "timestamp": "2025-11-17T13:14:00+01:00",
+    "free_text": "Push back button navigation weird, it goes to wrong screen."
+  },
+  {
+    "id": "BR-035",
+    "reporter": "Saeed",
+    "timestamp": "2025-11-18T15:03:00+01:00",
+    "free_text": "Sign in keeps loading forever sometimes, no error shown."
+  },
+  {
+    "id": "BR-036",
+    "reporter": "Ibad",
+    "timestamp": "2025-11-19T17:21:00+01:00",
+    "free_text": "Profile picture upload not working. It just fails."
+  }
+]
